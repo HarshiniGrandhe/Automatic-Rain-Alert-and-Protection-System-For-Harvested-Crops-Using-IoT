@@ -1,1 +1,6 @@
-# Epics_Project
+<h1>
+  Epics_Project </h1>
+<h2>Automatic Rain Alert and Protection System For Harvested Crops Using IoT</h2>
+<p>
+  Agriculture is the backbone of India and low-income Indian states as well, and it generates around 17–18% of India's national income. More than 70% of rural income is generated through agriculture. As the fourth revolution proceeds, technology has been advancing rapidly every day. The agriculture sector is beginning to transform itself by adopting modern agricultural technologies enabled by the Internet of Things and artificial intelligence. Starting from a basic sprinkler to the requirement for fertilizer on crops, everything has been significantly changed by these technologies. Protecting crops from torrential rains, which severely reduce soil productivity and crop yield and cause a farmer huge emotional suffering, is one of the problems that needs to be solved. An empirical model was used to provide both automated and manual control to overcome this problem. An Arduino UNO, servo motor, rain sensor, and LED light were utilized to alert farmers and save crops. The purpose of this work is to help farmers and protect crops from the intense rainfall. Within 5 seconds, the crop is protected by the water-resistant film.
+</p>
